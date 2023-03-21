@@ -1,0 +1,8 @@
+GET: http://localhost:9000/allproducts
+
+POST: http://localhost:9000/createproduct
+{
+    "name": "Laptop",
+    "quantity": 12,
+    "amount": 1234.56
+}
